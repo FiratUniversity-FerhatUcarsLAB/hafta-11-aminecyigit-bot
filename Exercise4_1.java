@@ -1,17 +1,8 @@
-public class Exercise4_1 {
-
-    public static void printAmerican(String day, int date, String month, int year) {
-        // TODO
-    }
-
-    public static void printEuropean(String day, int date, String month, int year) {
-        // TODO
-    }
-
-    public static void main(String[] args) {
-        // TODO: test methods
-    }
-}
+/**
+* Adı-Soyadı: Amine Ceren Yiğit
+* Okul No:250541048
+* Açıklama: Tarihleri Avrupa ve Amerikan formatında yazan bir program
+*/    
 package v1;
 import java.util.Scanner;
 public class Exercise4_1 {
