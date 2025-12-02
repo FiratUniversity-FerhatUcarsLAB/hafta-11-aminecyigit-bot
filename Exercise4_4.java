@@ -1,3 +1,9 @@
+/**
+* Adı-Soyadı: Amine Ceren Yiğit
+* Okul No:250541048
+* Açıklama: Ödev 4
+*/   
+
 public class Exercise4_4 {
 
     public static int getNumber() {
