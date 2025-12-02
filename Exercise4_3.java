@@ -1,7 +1,8 @@
-
-
-
-
+/**
+* Adı-Soyadı: Amine Ceren Yiğit
+* Okul No:250541048
+*Açıklama: Ödev 3
+*/   
 
 public class Exercise4_3 {
 
