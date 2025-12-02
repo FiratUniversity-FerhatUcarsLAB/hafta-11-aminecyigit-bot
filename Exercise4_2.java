@@ -30,12 +30,12 @@ public class Exercise4_2 {
 }
 
 /** Soruların cevapları 
-* 2- baffle ilk çağırıldığında blimp'in değeri "quince"dir
+* 2- baffle ilk çağırıldığında blimp'in değeri "rattle"dir
 * 3- Çıktı
 ik
 rattle
 ping zoop
 boo-wa-ha-ha
-* 4- 21.satır (zippo metotu) birden fazla kez çalışmıştır.
-*//  
+* 4- 21.satır (zippo metotu) birden fazla kez çağırılşmıştır.
+*/
 
